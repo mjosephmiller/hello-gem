@@ -2,6 +2,6 @@ require "hello/version"
 
 module Hello
   def say_hello
-    puts "Hello world!"
+    "Hello world!"
   end
 end
