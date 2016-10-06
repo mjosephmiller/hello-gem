@@ -1,4 +1,4 @@
-## Hello Gem
+## World_greet Gem
 
 Practicing how to make a Ruby gem
 
@@ -7,7 +7,7 @@ Practicing how to make a Ruby gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'hello'
+gem 'world_greet'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install hello
+    $ gem install world_greet
 
 ## Development
 
